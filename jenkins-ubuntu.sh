@@ -15,3 +15,5 @@ sudo apt install -y jenkins
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
 sudo systemctl status jenkins
+
+Refer doc: https://www.geeksforgeeks.org/devops/install-jenkins-in-ubuntu/
