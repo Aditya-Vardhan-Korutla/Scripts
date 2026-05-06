@@ -7,3 +7,5 @@ sudo mkdir /opt/tomcat
 sudo tar -xvzf apache-tomcat-9.0.117.tar.gz -C /opt/tomcat --strip-components=1
 sudo chown -R tomcat:tomcat /opt/tomcat
 sudo chmod g+x /opt/tomcat/conf
+
+#https://www.layerstack.com/resources/tutorials/how-to-install-apachetomcat-on-ubuntu24
