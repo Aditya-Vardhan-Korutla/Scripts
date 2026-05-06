@@ -16,4 +16,5 @@ sudo systemctl start jenkins
 sudo systemctl enable jenkins
 sudo systemctl status jenkins
 
-Refer doc: https://www.geeksforgeeks.org/devops/install-jenkins-in-ubuntu/
+#https://www.geeksforgeeks.org/devops/install-jenkins-in-ubuntu/
+#https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
