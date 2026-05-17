@@ -2,7 +2,7 @@
 set -e
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y openjdk-17-jdk
+sudo apt install -y openjdk-21-jdk -y
 java -version
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
