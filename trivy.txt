@@ -1,0 +1,1 @@
+# Use below trivy document to install the trivy: https://trivy.dev/docs/latest/getting-started/installation/#install-script-official
